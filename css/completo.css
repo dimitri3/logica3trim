@@ -1,0 +1,96 @@
+body{
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	background-color: #fbfbfb;
+}
+
+img{
+	width: 100%;
+}
+
+/*topo*/
+#logo{
+	width: 15%;
+	float:left;
+	margin-bottom: 2%;
+}
+
+#nome_site{
+	margin-top: 2%;
+	width: 85%;
+	float: left;
+}
+
+.divider{
+	clear: both;
+}
+
+
+/*menu*/
+.menu{
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.item.menu{
+	width: 14%;
+	float: left;
+	font-size: 115%;
+	border: 1px solid #aaa;
+	text-align: center;
+	padding: 1.2%;
+}
+
+.item.ativo{
+	background-color: #eee;
+}
+
+a{
+	color:#000;
+}
+
+.item.menu:hover{
+	background-color: #ccc;
+}
+
+/*conteudo geral*/
+.coluna10{
+	width: 10%;
+	float: left;
+	color:#fff;
+}
+
+.coluna80{
+	width: 80%;
+	float: left;
+	border: 1px solid #aaa;
+	padding: 2%;
+}
+
+
+.foto{
+	width: 25%;
+	float: left;
+}
+
+.dados{
+	float: left;
+	margin-left: 5%;
+	width: 70%;
+	font-size: 150%;
+}
+
+.paginacao{
+	font-size: 250%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.lista{
+	width: 30%;
+	float: left;
+	border: 1px solid #ddd;
+	margin-right: 1%
+}
+
+

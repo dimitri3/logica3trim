@@ -1,0 +1,12 @@
+.paginacao{
+	font-size: 250%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.lista{
+	width: 32%;
+	float: left;
+	border: 1px solid #ddd;
+	margin-right: 1%
+}
